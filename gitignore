@@ -1,0 +1,18 @@
+# 构建产物
+*.apk
+*.idsig
+*.dex
+*.so
+*.class
+
+# 游戏资源（禁止提交）
+assets/
+*.png
+*.jpg
+*.ogg
+*.aff
+*.mo
+
+# 本地配置
+*.local
+.DS_Store
